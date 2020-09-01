@@ -1,0 +1,6 @@
+import random
+
+for ran in range(10): 
+ran = random.randrange(25, 35)
+
+print(ran)
