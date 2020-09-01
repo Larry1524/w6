@@ -1,0 +1,7 @@
+import random
+
+prob = random.random()
+print(prob)
+
+ran = random.choice(Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday)      
+print(ran)
