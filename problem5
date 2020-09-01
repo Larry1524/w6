@@ -1,0 +1,5 @@
+print("How many radians?")
+
+x = input("Enter the radians: ")
+
+math.degrees(x)
